@@ -2,7 +2,7 @@
 List of resource for various cyber security topics.
 
 VR/RE
-https://github.com/secfigo/Awesome-Fuzzing
+https://github.com/secfigo/Awesome-Fuzzing \
 http://www.fuzzing.org/
 https://twitter.com/pedramamini/status/999332499959566336
 https://beginners.re/
