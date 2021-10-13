@@ -20,10 +20,25 @@ https://null-byte.wonderhowto.com/ \
 https://blog.trailofbits.com/ \
 https://www.kitploit.com/ \
 
+Priv Esc \
+https://gtfobins.github.io/ \
+
 Digital Forensics \
 https://www.sans.org/blog/?focus-area=digital-forensics \ 
 https://www.techrepublic.com/article/digital-forensics-the-smart-persons-guide/ \
 https://digital-forensics.sans.org/ \
+
+OSINT \
+https://hunter.io/ \
+https://github.com/twintproject/twint \
+https://osintframework.com/ \
+https://github.com/sundowndev/phoneinfoga \
+https://osintcurio.us/ \
+https://start.me/p/ZME8nR/osint \
+https://github.com/sherlock-project/sherlock \
+https://www.aware-online.com/en/osint-tools/people-tools/ \
+https://www.spokeo.com/ \
+
 
 Cheat Sheets \
 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ \
@@ -39,3 +54,5 @@ https://amanhardikar.com/mindmaps/Practice.html \
 
 General \
 https://attack.mitre.org/ \
+
+
